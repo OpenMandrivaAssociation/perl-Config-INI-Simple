@@ -2,7 +2,7 @@
 
 Name:		perl-%{realname}
 Version:    0.01
-Release:    %mkrel 1
+Release:    %mkrel 2
 License:	Artistic and GPL
 Group:		Development/Perl
 Summary:    Simple reading and writing from an INI file--with preserved comments
