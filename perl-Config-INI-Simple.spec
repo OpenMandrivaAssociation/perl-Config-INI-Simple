@@ -1,8 +1,8 @@
 %define realname   Config-INI-Simple
 
 Name:		perl-%{realname}
-Version:    0.01
-Release:    %mkrel 2
+Version:    0.02
+Release:    %mkrel 1
 License:	Artistic and GPL
 Group:		Development/Perl
 Summary:    Simple reading and writing from an INI file--with preserved comments
