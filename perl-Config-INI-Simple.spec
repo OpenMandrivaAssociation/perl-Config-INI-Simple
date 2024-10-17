@@ -7,7 +7,7 @@ License:	Artistic and GPL
 Group:		Development/Perl
 Summary:    Simple reading and writing from an INI file--with preserved comments
 Source0:    ftp://ftp.perl.org/pub/CPAN/modules/by-module/Config/Config-INI-Simple-%{version}.tar.bz2
-Url:		http://search.cpan.org/dist/%{realname}
+Url:		https://search.cpan.org/dist/%{realname}
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	perl-devel
 
