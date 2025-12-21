@@ -9,6 +9,7 @@ Summary:    Simple reading and writing from an INI file--with preserved comments
 Source0:    ftp://ftp.perl.org/pub/CPAN/modules/by-module/Config/Config-INI-Simple-%{version}.tar.bz2
 Url:		https://search.cpan.org/dist/%{realname}
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
+BuildRequires:	make
 BuildRequires:	perl-devel
 
 BuildArch: noarch
